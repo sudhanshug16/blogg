@@ -1,0 +1,40 @@
+; Distribution information
+name = "Blogg"
+description = "A simple Drupal blogging distribution built for click-ready installation."
+core = "7.x"
+; ----------
+; Dependencies
+; ----------
+; Core
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+; Others
+dependencies[] = node_reference
+dependencies[] = references
+dependencies[] = ctools
+dependencies[] = token
+dependencies[] = pathauto
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = features
+dependencies[] = wysiwyg
+dependencies[] = metatag
+dependencies[] = r4032login
+dependencies[] = context
+dependencies[] = libraries
