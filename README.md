@@ -5,16 +5,16 @@ Blogg is a Drupal distribution for blogging. This distribution was created as pa
 <a href="https://www.drupal.org/project/meedjum">Meedjum Blog</a>
 
 # Modules Used
-context
-ctools
-features
-libraries
-markdown
-metatag
-pathauto
-r4032login
-references
-strongarm
-token
-views
-wysiwyg
+context<br>
+ctools<br>
+features<br>
+libraries<br>
+markdown<br>
+metatag<br>
+pathauto<br>
+r4032login<br>
+references<br>
+strongarm<br>
+token<br>
+views<br>
+wysiwyg<br>
